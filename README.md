@@ -3,7 +3,7 @@
 **Timeframe:** January 2023 – July 2024  
 **Location:** United States  
 **Dataset size:** 10,746 customers  
-**Tools:** Python (Python (NumPy, Pandas, SciPy, Matplotlib, Seaborn)
+**Tools:** Python (NumPy, Pandas, SciPy, Matplotlib, Seaborn)
 
 ## Project overview
 This project analyses online shopping behaviour during November and December, the busiest shopping months of the year.  
